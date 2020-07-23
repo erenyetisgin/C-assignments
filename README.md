@@ -1,2 +1,2 @@
 # C-assignments
-These are the assignments for the C course in university.
+These are various assignments for the C course in university.
